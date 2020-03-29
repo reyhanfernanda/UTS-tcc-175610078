@@ -1,0 +1,4 @@
+#menggunkan base image ubuntu
+FROM ubuntu
+#text yang akan muncul di CMD
+CMD ["echo","175610078 , AKAKAOM : Code for Life"]
