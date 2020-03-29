@@ -4,7 +4,6 @@ Membuat account di DockerHub
 ![image](https://github.com/reyhanfernanda/UTS-tcc-175610078/blob/master/gambar-02.png)
 2. kemudian isikan Doker ID ,email, dan password dimana Doker ID hampir sama dengan username
 ![image](https://github.com/reyhanfernanda/UTS-tcc-175610078/blob/master/gambar-03.png)
-Setelah itu dapat memverifikasi akun melalui email yang didaftarkan.
 3. Setelah itu kita akan diminta untuk Verifikasi Email
 ![image](https://github.com/reyhanfernanda/UTS-tcc-175610078/blob/master/gambar-04.png)
 4. buka email, lalu verifikasi email address
