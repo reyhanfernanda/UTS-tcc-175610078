@@ -1,4 +1,4 @@
-#Membuat DockerFile
+# Membuat DockerFile
 
 1. Pertama buat dulu file dockerfile dengan text editor
 2. Kemudian kita tambahkan konfigurasi docker yang didalamnya, Saya akan menggunakan sebuah base image ubuntu.
