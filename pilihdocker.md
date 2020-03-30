@@ -1,4 +1,4 @@
-Pilih image docker
+# image docker
 
 1. Melakukan pengecekan versi docker apakah sudah berhasil diinstal atau belum
 ![image](https://github.com/reyhanfernanda/UTS-tcc-175610078/blob/master/gambar-01.png) 
